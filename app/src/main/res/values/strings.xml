@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SampleLoginApp</string>
+    <string name="hello">Hey there, </string>
+    <string name="create_account">Create an account</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="password_again">Password Again</string>
+    <string name="show_password">Show Password</string>
+    <string name="hide_password">Hide Password</string>
+    <string name="terms_and_conditions"><u>I have read the terms and conditions</u></string>
+    <string name="register">REGISTER\n</string>
+    <string name="or">or</string>
+    <string name="login_message">Login to the App</string>
+    <string name="remember_me">Remember me</string>
+    <string name="login_button_message">Log In\n</string>
+</resources>
